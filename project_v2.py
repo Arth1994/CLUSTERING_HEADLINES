@@ -17,21 +17,9 @@ from bs4 import BeautifulSoup
 
 textFilename = "tup.txt"
 cleanedFilename = "cleanup.txt"
-translatedFileName = "translated.txt"
-
-jsonfilename = "json.txt"
+jsonfilename = "to_kmeans.txt"
 
 #os.system("pdf2txt.py -o C:\\Users\\devan\\Downloads\\UTD\\2018 Spring\\Big Data\\Project\\spanishTest.html -t html C:\\Users\\devan\\Downloads\\UTD\\2018 Spring\\Big Data\\Project\\spanishTest.pdf")
-
-def translator(text):
-    try:
-        text = translate(text,'en', 'es')
-    except NameError: # unicode is a default on python 3 
-        pass
-    text = unicodedata.normalize('NFD', text)
-    text = text.encode('ascii', 'ignore')
-    text = text.decode("utf-8")
-    return str(text)
 
 def strip_accents(text):
     try:
@@ -48,7 +36,6 @@ def strip_accents(text):
 sizeCutoff = 39
 textFile = open(textFilename, "w") #make text file
 cleanedFile = open(cleanedFilename, "w")
-#translatedFile = open(translatedFileName, "w")
 jsonFile = open(jsonfilename, "w")
 
 htmlData = open("ElHorizonte.html", 'r')
@@ -75,13 +62,10 @@ for i in font_spans:
         currHeadline = ""
         strNews = ""
         cleanedtxt = " ".join(re.findall("[a-zA-Z]+", txt))
-        count = 0
-        #translatetxt = translator(cleanedtxt)
         currHeadline += cleanedtxt + " "
         if fonts_size_prev != 0:
             textFile.write("\n")
             cleanedFile.write("\n")
-            #translatedFile.write("\n")
             jsonFile.write("\n")
         #textFile.write(fonts_size)
         #cleanedFile.write(fonts_size)
@@ -89,27 +73,17 @@ for i in font_spans:
         #cleanedFile.write("\t")
         textFile.write(txt)
         cleanedFile.write(cleanedtxt)
-        #translatedFile.write(translatetxt)
         fonts_size_prev = int(fonts_size)
            
     elif int(fonts_size) > sizeCutoff and len(txt)>2 and abs(fonts_size_prev - int(fonts_size)) ==  0 and len(txt.split(" ")) > 1:
         cleanedtxt = " ".join(re.findall("[a-zA-Z]+", txt))
-        #translatetxt = translator(cleanedtxt)
         currHeadline += cleanedtxt
         textFile.write(" ")
         cleanedFile.write(" ")
-        #translatedFile.write(" ")
         textFile.write(txt)
-        #translatedFile.write(translatetxt)
         cleanedFile.write(cleanedtxt)
     
     elif int(fonts_size) < 15:
         cleanedtxt = " ".join(re.findall("[a-zA-Z]+", txt))
-        #try:
-            #translatetxt = translator(cleanedtxt)
-            #count = count+1
-        #except:
-        #    pass
         strNews += cleanedtxt + " "
-        #print(cleanedtxt)
             
