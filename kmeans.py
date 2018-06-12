@@ -34,7 +34,7 @@ def formatter(x, stop_words):
 
 def main():
 
-    data = pd.read_csv(os.path.join(path, 'json.txt'), names=['text'])
+    data = pd.read_csv(os.path.join(path, 'to_kmeans.txt'), names=['text'])
     # text data in dataframe and removing stops words
     stop_words = set(stopwords.words('spanish'))
     #print(stop_words)
@@ -54,7 +54,7 @@ def main():
     #print(terms)
 
     # Kmeans++
-    km = KMeans(n_clusters=10, init='k-means++', max_iter=300, n_init=1, verbose=0, random_state=3425)
+    km = KMeans(n_clusters=9, init='k-means++', max_iter=300, n_init=1, verbose=0, random_state=3425)
     km.fit(tfidf_matrix)
     labels = km.labels_
     clusters = labels.tolist()
@@ -71,11 +71,11 @@ def main():
     for x, y, in zip(xs, ys):
         plt.scatter(x, y)
     plt.title('News Headlines after MDS')
-    plt.savefig(os.path.join(path, 'MDS1.png'))
+    plt.savefig(os.path.join(path, 'MDS.png'))
 
     # Creating dataframe containing reduced dimensions, identified labels and text data for plotting KMeans output
     df = pd.DataFrame(dict(label=clusters, data=(data['text']), x=xs, y=ys))
-    df.to_csv(os.path.join(path, 'kmeans_dataframe1.txt'), sep='\t')
+    df.to_csv(os.path.join(path, 'kmeans_dataframe.txt'), sep='\t')
 
     label_color_map = {0: 'red',
                        1: 'blue',
@@ -89,7 +89,7 @@ def main():
                        9: 'cyan'
                        }
 
-    csv = open(os.path.join(path, 'kmeans_clusters1.txt'), 'w')
+    csv = open(os.path.join(path, 'kmeans_clusters.txt'), 'w')
     
     fig, ax = plt.subplots(figsize=(17, 9))
 
@@ -111,16 +111,19 @@ def main():
     
     for row in mydict.iteritems():
         for x in row[1]:
-            temp = x.split("<<<>>>")[0]
-            rowid = temp.split("!!!!")[0]
-            writestr = str(row[0]) + "\t" + stateDct[int(rowid)] + "<<<>>>" + x.split("<<<>>>")[1]+ "\n"
-            csv.write(writestr)
-
+            temp = x.split("<<<>>>")
+            temp1 = temp[0]
+            temp2 = temp[1]
+            rowid = temp1.split("!!!!")[0]
+            if temp2 != '':
+                writestr = str(row[0]) + "\t" + stateDct[int(rowid)] + "<<<>>>" + x.split("<<<>>>")[1]+ "\n"
+                csv.write(writestr)
+            
     for i in range(len(df)):
         ax.text(df.ix[i]['x'], df.ix[i]['y'], df.ix[i]['label'], size=8)
 
     plt.title('News Headlines using KMeans Clustering')
-    plt.savefig(os.path.join(path, 'kmeans1.png'))
+    plt.savefig(os.path.join(path, 'kmeans.png'))
 
 
 if __name__ == '__main__':

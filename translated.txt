@@ -1,74 +1,398 @@
-0	will look for a bread bank to fight dirty companies	propose to give legal tools municipalities actuen vs polluters jonathan tapia horizonte b
-0	law	crack sports elhorizonte mx goals received long career uni better mark 
-1	will be the official cisen controversial	the horizon secretary go related facts washed money redaction redaction skyline city me
-1	inquire irregularities independent firms	warns electoral counselor no aspiring federal deputy can say won name ballot tirs
-1	affirm Russia supports amlo	redaccion horizon mexico president russia vladimir putin pue working supporting prescampane pre side
-1	will reinforce sedesol shielding programs elections	redaccion horizon city mexico secretary social development eviel perez magana sustained sumara es
-1	Colombia seeks to keep fire elon	the chief negotiator government manifesto disposition achieve agreements guerrilla reprobo attack
-1	tactical adjustments	the president delivered presidential candidate presidential wallet jose antonio meade granted insurance
-1	Mexico poor country rich owners	since mid-year change favorable clinical attention usually goes to town talk never years
-1	reelection mauricio	his main argument said he asks for duty he wants to inherit supposed successor pending projects cliche p
-1	renewed controversial espionage law	the camera low vote reauthorize intelligence agencies monitor foreign activities eua redacci
-1	mature president offers full guarantees	redaccion horizon caracas president sees nezolano nicolas mature commitment yesterday give guarantees ple
-2	ecnuentran dog hanging clothesline tortured	redaccion horizonte aguascalientes traves denunciation knew dog hung wrong treated presumed dro gadic
-2	records epn	the positive changes opening sector incomplete tardy energy accompanied ad ministracion saq
-2	close inflation	and health accelerated in ation agreement report indec nes december go bierno saw forced mo di car pa
-2	Washington obsessed interference russia	redaction horizon washington obsession united sunset interference russia electoral process dunidense p
-2	guajardo travels washington revise treaty	redaccion horizon economy secretary ildefonso guajardo villarreal meet trade representative
-2	eua insists to leave tlcan	b heron r egret horizon possibility exit treaty free trade america north tlcan part united
-2	private sector government trust continuity	of January will enter sixth round renegotiation montreal redaccion horizon federal government sector pri
-2	resumes work palliate effect reform scal eua	editorial horizon due if they visualize threats Mexico business sector mexican federal government
-2	they identify inflationary risks	brenda garza horizon institute development industrial growth economic idic rmo mexico find
-2	pedal	redaccion horizonte on participation more state competitors will carry out tomorrow hours prime
-3	addiction video games problem control nl	How to know time game over global health organization details consequences that can trigger problems
-3	we breathe contingency black cloud	in week polluting levels maintained above recommended norm only issues warning rodolfo garcia
-3	stop capo cdmx operated monterrey	redaccion horizon commissioner national security renato sales heredia gave know yesterday wheel prens
-3	they issue torture unfounded arrest called marine	redaccion horizon city mexico acts torture violation freedom integrity committed personal ciu
-3	confirms ecuador citizenship assange	the government explored possibility to include founder wikileaks within diplomacy rejected london toria
-3	hike world	the horizon eagerly statistics penetration income industry videogames redaction new le
-3	You should get people countries fucked	the president donald trump pronounced words reunion pretended to get agreement immigration durbin ap
-3	fca will transfer production united mexico	editorial horizon fiat chrysler automobiles fca inform Thursday will move production trucks pi
-3	pollution ceases metropolis	to pollution panorama grisaceo smog saturates atmosphere monterrey conurbada area causes vehiculos ped
-3	falls monterrey cochi leader poster tlahuac	rodolfo garcia skyline various searches carried out local federal forces metro area politana mo
-3	confirm security crisis statistics	lose control situation although years were more violent recent times various measures
-3	success goes	redaccion horizonte most recent video success luis fonsi together singer estadou nidense demi lovato e
-3	offer diversity film proposals	redaccion horizon redaccion horizon interpretes genre regional mexican most important last
-4	they put shine color	 
-5	Uni scares	in classic royal tournament opening jona responded shouts cion felina uni response observed logo ra
-5	first title	the horizon i someone pride more luis madrigal I enjoy being first I win imagine first unexplained
-5	they come fear champion	the horizon six years domain great career here also good players great staff directive
-5	lift face	redaccion horizon iudad mexico pu mas unam reci bira afternoon together xolos tijuana match corresponded
-5	American conference	the corner artie burns knee nue goes addition report injured week steelmen need all ay
-6	desaira morena pacto civilidad	nor do they come to sign agreement partners coalition pt pes other institutes condemn absenteeism lis
-6	create cadereyta bread front	redaccion horizon objective res catar municipality cadereyta insecurity corruption services
-6	divide opinions attempt re-election mayor sampetrino	jonathan tapia horizonte rmacion mayor san pedro mauricio fernandez garza will seek to remain three
-6	continues to enjoy title	for luis chaka rodriguez championship opening special flavor first be regal then win you striped
-6	I could get hurt	redaccion horizon dangerous visit country ten dra milwaukee wave n week unbeaten streak pair
-6	dorlan medina	luis madrigal horizon nte novel lived ulti mos days camp scratched posi ble exit dorlan p
-6	I arrive defense	editorial horizon ogota yerry mine new member barcelona league spain change goalkeeper position
-6	old hills	the horizon okohama river r river t r r s t r r s
-6	they want heynckes more time	el horizon erlin situation helmsman convinced to leave retirement insists re greso solo favor resolv
-6	tottenham english	editorial skyline ondres nfl reduction ra presence lon dres four three parties league announcement yesterday
-6	pacta anocon chicago	p t f jp includes results yesterday Thursday conference division atlantico jg teams boston toronto fil
-6	toparian semis	redaccion horizon elbourne ro ger federer found situation ex trana draw open australia sen
-7	red balance crimes	horizon jaime ro reynaldo ochoa entity homicides rebounded current government while kidnappings
-7	gaming disorder	 
-7	inflation reached higher level transitory factors banxico	o v i h c r t f to avoid contingencies specialists need more control prices consumed
-7	there will be partial closure av americas	the horizon as part deviations agreement information cial driver can take avoid zone
-7	san nicolas endorses discounts fines	redaccion horizonte municipality san nicolas will grant discounts fines administrative fines regulations
-7	striped contemplates	 
-7	show messi	 
-7	exporter	 
-7	blows hurt	 
-7	they will premiere stadium	 
-7	federer djokovic	 
-7	review	 
-7	Starts	 
-7	ano energy	the new leon film studio presents an international exhibition 
-7	carrington I leave stories	 
-8	follow	scene obtained yesterday awards best director best movie critics choice awards guillermo toro was
-8	brunette gives access famous cinema tv	the horizon unque passes writing famous faces together familiar faces sergio mayer der interpreto
-8	adore	on history win first prize academy fernando neri horizon love impossible full war cold fo
-8	project more intimate date	guillermo toro began to develop tape sally hawkins unica option to star mary elizabeth wi
-8	carpet	redaccion horizon then color black predominance delivery balloons gold code dress agreed pact protest
-9	dream children	redaccion horizon landesa tales fairies legends stories creatures folklore Celtic peoples create
+{
+    "0": [
+        {
+            "cluster": "0",
+            "headline": "its law",
+            "id": 1,
+            "news": "crack sports elhorizonte mx goals received long career uni better mark "
+        }
+    ],
+    "1": [
+        {
+            "cluster": "1",
+            "headline": "will be the holder of the cisen controversial official",
+            "id": 2,
+            "news": "the horizon secretary go facts related money drafting drafting horizon city mexico seven parties register city mexico exception brunette allies pt pes rmaron pacto civilidad co"
+        },
+        {
+            "cluster": "1",
+            "headline": "Indagara ine irregularities in independent firms",
+            "id": 3,
+            "news": "warns electoral counselor no aspiring federal deputy can say won name ballot tirse irregularities irregularities I call presidential candidate Pedro Ferriz if infor macion senalo h"
+        },
+        {
+            "cluster": "1",
+            "headline": "say that Russia supports amlo",
+            "id": 4,
+            "news": "redaccion horizon mexico president russia vladimir putin pue working support precampana pre-sidencial andres manuel lopez obrador warned yesterday newspaper usa the washington post article can"
+        },
+        {
+            "cluster": "1",
+            "headline": "brunette gives access to famous movies and tv",
+            "id": 5,
+            "news": "the horizon unque pasa redaccion famous faces together famous faces sergio mayer der interpret president mexico movie box seen event brunette together politico morena marti batres centro ac"
+        },
+        {
+            "cluster": "1",
+            "headline": "will reinforce sedesol shielding of programs during elections",
+            "id": 6,
+            "news": "editorial horizon city mexico secretary social development eviel perez magana sustained sum effort effort dependability lidar important project shielding electoral re double efforts give good"
+        },
+        {
+            "cluster": "1",
+            "headline": "tactical adjustments",
+            "id": 7,
+            "news": "the president delivered presidential candidate presidential candidate jose antonio meade granted social security candidacy government ve racruz began to prepare electoral machinery to have candidacy compe ti"
+        },
+        {
+            "cluster": "1",
+            "headline": "they renew in eua controversial law of espionage",
+            "id": 8,
+            "news": "the camera low vote reauthorize agencies intelligence monitor foreign activities eua redaccion horizon washington camara representatives vote authorize renovation program law surveillance inte"
+        },
+        {
+            "cluster": "1",
+            "headline": "mature president offers full guarantees in elections",
+            "id": 9,
+            "news": "redaction horizon caracas president sees nezolano nicolas mature commitment yesterday give guarantees full presidential elections exigency had initially raised oppositional coalition lle var"
+        }
+    ],
+    "2": [
+        {
+            "cluster": "2",
+            "headline": "we breathe black cloud but there is no contingency",
+            "id": 10,
+            "news": "in week polluting levels maintained above recommended norm only emits alert rodolfo garcia horizon vol watching custom cui dad awoke today level over imecas saying environmentalists requires"
+        },
+        {
+            "cluster": "2",
+            "headline": "pollution does not stop in metropoli",
+            "id": 11,
+            "news": "to pollution panorama grisaceo smog saturates atmosphere monterrey conurbada area causes vehiculos pedreras rodolfo garcia skyline metropolitan area monterrey ceases governmental actions to brake it b"
+        },
+        {
+            "cluster": "2",
+            "headline": "will look for a bread bank to fight dirty companies",
+            "id": 12,
+            "news": "propose to give legal tools municipalities actuen vs polluters jonathan tapia horizon bancada party national action congress announcement next period sessions will seek to approve laws is"
+        },
+        {
+            "cluster": "2",
+            "headline": "the cochi leader of the cartel of tlahuac falls in monterrey",
+            "id": 13,
+            "news": "rodolfo garcia skyline various searches carried out federal forces local metropolitan area monterrey captured uriel isaac g alias cochi successor lider narcomenudistas tlahuac felipe jesus perez"
+        },
+        {
+            "cluster": "2",
+            "headline": "san nicolas endorses discounts on fines",
+            "id": 14,
+            "news": "editorial horizon municipality san nicolas grant discounts administrative fines absences regulations transit road municipality session ordi naria council held out yesterday council members approved"
+        }
+    ],
+    "3": [
+        {
+            "cluster": "3",
+            "headline": "stop cdmx capo operated from monterrey",
+            "id": 15,
+            "news": "redaccion horizon commissioner national security renato sales heredia gave know yesterday wheel press arrest cion new leon uriel isaac n alias cochi identi cado leader cartel tlahuac agreement infor mac"
+        },
+        {
+            "cluster": "3",
+            "headline": "desaira morena pact of civility",
+            "id": 16,
+            "news": "nor do they come to sign agreement coalition coalition pt pes other institutes condemn abstention ready new responsibility alberto bazbaz center tome protest yesterday charge recalls controversy case n"
+        },
+        {
+            "cluster": "3",
+            "headline": "inflation reached higher level due to transitory factors banxico",
+            "id": 17,
+            "news": "o v i h c r t f avoid contingencies specialists point out need greater control consumer prices "
+        },
+        {
+            "cluster": "3",
+            "headline": "there will be partial closure in americas",
+            "id": 18,
+            "news": "the horizon as part deviations agreement information cial driver can take avoid work zone esteem closed night starting hours writing i s t r c t f join forces exdiputado local erne"
+        },
+        {
+            "cluster": "3",
+            "headline": "create front against bread in cadereyta",
+            "id": 19,
+            "news": "redaccion horizon objective res catar municipality cadereyta insecurity corruption services offers citizens current part mayor santiago precious yesterday present project unidosporcadereyta"
+        },
+        {
+            "cluster": "3",
+            "headline": "divide opinions attempt of re-election of mayor sampetrino",
+            "id": 20,
+            "news": "jonathan tapia horizon rmacion mayor san pedro mauricio fernandez garza will seek to remain three years more front municipality untie opinions found leaders political parties side leader mov"
+        },
+        {
+            "cluster": "3",
+            "headline": "continues to enjoy the title",
+            "id": 21,
+            "news": "for luis chaka rodriguez championship opening special flavor first be regal after winning him scratched p z l z n g d r r g t r p s x m s t f friday xx may friday january "
+        },
+        {
+            "cluster": "3",
+            "headline": "I could get hurt",
+            "id": 22,
+            "news": "redaccion horizon dangerous visit country ten dra milwaukee wave n week unbeaten streak pair could be violated will face two peli grosos rivals division southwest soles sonora monterrey f"
+        },
+        {
+            "cluster": "3",
+            "headline": "I come as a defense",
+            "id": 23,
+            "news": "redaccion horizon ogota yerry mine new member barcelona league spain change position goalkeeper defender after attending council father yerry wanted to be ar quero wanted to follow steps true great arche"
+        },
+        {
+            "cluster": "3",
+            "headline": "old the hills",
+            "id": 24,
+            "news": "the horizon okohama redaccion n u s r r r r t r r s t r r r t i i r i x m c c t s l years old years later career stoke city blackpool selection country miura also juice club brazilian sant"
+        },
+        {
+            "cluster": "3",
+            "headline": "they want heynckes more time",
+            "id": 25,
+            "news": "the skyline erlin situation helmsman convinced to leave retirement insists re greso single please resolve difficult situation insures continue des well season could be better bayern munich resume bu"
+        },
+        {
+            "cluster": "3",
+            "headline": "pacta un anocon chicago",
+            "id": 26,
+            "news": "p t f jp includes results yesterday thursday conference division atlantico jg teams boston toronto philadelphia new york brooklyn division central teams cleveland milwaukee detroit indiana chicago div"
+        },
+        {
+            "cluster": "3",
+            "headline": "to pedal",
+            "id": 27,
+            "news": "redaccion horizon on participation more state competitors will perform tomorrow split hours prime serial edition mtp invitation cycling bmx track center high performance care park children hero"
+        }
+    ],
+    "4": [
+        {
+            "cluster": "4",
+            "headline": "has a red balance in crimes",
+            "id": 28,
+            "news": "horizon jaime ro reynaldo ochoa homicides entity rebounded current government while kidnappings broke low trend recorded kidnappings government bronco homicides source procuraduria justi"
+        },
+        {
+            "cluster": "4",
+            "headline": "addiction to videogames a problem without control in nl",
+            "id": 29,
+            "news": "how to know hour game over global health organization details consequences that can detonate problem excess use videogames day brief investigate independent inefirmas instituto nacional electoral"
+        },
+        {
+            "cluster": "4",
+            "headline": "They found a dog hanging on a clothesline. They tortured him",
+            "id": 30,
+            "news": "redaccion horizonte aguascalientes traves denunciation knew dog hung wrong treated presumed dro gadicto aguscalientes due image in worthy social networks association world patitas attended neighborhood c"
+        },
+        {
+            "cluster": "4",
+            "headline": "issued by torture and unfounded arrest called the navy",
+            "id": 31,
+            "news": "editorial horizon city mexico acts torture violation freedom integrity personal committed citizen attributable personal secretary marine semar san luis potosi national commission human rights"
+        },
+        {
+            "cluster": "4",
+            "headline": "confirms ecuador citizenship of assange",
+            "id": 32,
+            "news": "the government explored possibility to include founder wikileaks within diplomacy rejected london toriana june evade request extradition sweden respond accusations sex crimes insistently neg"
+        },
+        {
+            "cluster": "4",
+            "headline": "Colombia seeks to maintain ceasefire with ELN",
+            "id": 33,
+            "news": "the chief negotiator government manifesto disposition achieve agreements guerrilla reprobo attack made redaction horizon bogota government colombia held yesterday disposition achieve new agreement cease fu"
+        },
+        {
+            "cluster": "4",
+            "headline": "Mexico poor country with rich owners",
+            "id": 34,
+            "news": "since mid-year change favorable attention clinic usually goes to town talk never years had received such a deal account any little thing less hospital private curious I inquire good pron"
+        },
+        {
+            "cluster": "4",
+            "headline": "the reelection of mauricio",
+            "id": 35,
+            "news": "his main argument said he asks he owns heirs supposed successor projects pending cliche politic justi ficar responsibility public servant demonstrate commitment also obvious wants care"
+        },
+        {
+            "cluster": "4",
+            "headline": "the records of epn",
+            "id": 36,
+            "news": "the positive changes opening energy sector late incomplete ad ministracion looting indebtedness irresponsible mind pemex jobs ca carean majority new must migration sector inform"
+        },
+        {
+            "cluster": "4",
+            "headline": "up in the world",
+            "id": 37,
+            "news": "the horizon ecientemente statistics penetration income industry videogames redaction new leon major number homes consoles mexico leads income industry america latina china occupies first"
+        },
+        {
+            "cluster": "4",
+            "headline": "closes with inflation of the",
+            "id": 38,
+            "news": "and health accelerated in ation agreement report indec nes december gogovernment saw obligated mo di car projected in ation guidelines budget approved congress days analysts argue part obed problem"
+        },
+        {
+            "cluster": "4",
+            "headline": "eua should not receive people from countries fucked",
+            "id": 39,
+            "news": "the president donald trump pronounced words meeting pretended to arrive agreement immigration durbin point by mitiria people flee disasters countries origin included salvado reindeer guatemalan hai tianos"
+        },
+        {
+            "cluster": "4",
+            "headline": "washington is obsessed with interference russia",
+            "id": 40,
+            "news": "redaction horizon washington obsession united sunset interference russia election process harms only bilateral relations but also own washington rmo yesterday spokesman kremlin resigned"
+        },
+        {
+            "cluster": "4",
+            "headline": "fca will move production from Mexico to the United States",
+            "id": 41,
+            "news": "editorial horizon fiat chrysler automobiles fca inform Thursday will move production trucks pickup ram mexico michigan automotive measure said bilita approval legislation tax reform e"
+        },
+        {
+            "cluster": "4",
+            "headline": "guajardo travels to washington to review treaty status",
+            "id": 42,
+            "news": "editorial horizon economy secretary ildefonso guajardo villarreal meeting trade representative united robert lighthizer review treaty free trade america north tlcan meeting washington d"
+        },
+        {
+            "cluster": "4",
+            "headline": "eua insists on leaving tlcan",
+            "id": 43,
+            "news": "b heron r heron r horizon possibility free trade treaty america north tlcan part united is still latent generating actions around thursday secretary treasure united steven mnuchin clear as"
+        },
+        {
+            "cluster": "4",
+            "headline": "Government and the private sector rely on continuity",
+            "id": 44,
+            "news": "January will enter sixth round renegotiation montreal drafting horizon federal government private sector insure ne negotiations treaty free trade america north tlcan continue course confian habra c"
+        },
+        {
+            "cluster": "4",
+            "headline": "resume work to alleviate the effect of scal-up reform",
+            "id": 45,
+            "news": "editorial horizon due if visualize threats mexico sector business mexican government federal challenge maron week tables work find mechanisms haran front reform scal eua president cons"
+        },
+        {
+            "cluster": "4",
+            "headline": "they identify inflationary risks",
+            "id": 46,
+            "news": "brenda heron horizon institute development industrial growth idico rmo mexico finds front risks in aarios minor economic growth urgent take didas respect said urgent"
+        },
+        {
+            "cluster": "4",
+            "headline": "confirm security crisis statistics",
+            "id": 47,
+            "news": "They lose control situation although years were more violent recent times various measures local level federal environment led more secure later years arrival current administration volvier"
+        },
+        {
+            "cluster": "4",
+            "headline": "American conference",
+            "id": 48,
+            "news": "cornerback artie burns knee new addition report injured week steelmakers need all help can receive corner position then allow aerial plays more recent yards eight weeks"
+        },
+        {
+            "cluster": "4",
+            "headline": "they would meet in semis",
+            "id": 49,
+            "news": "redaccion horizon elbourne ro ger federer found situation ex trana draw open australia senci llamente there minutes after term ceremo nia astro swiss whole will have difficult road if quie"
+        },
+        {
+            "cluster": "4",
+            "headline": "goes for another success",
+            "id": 50,
+            "news": "redaccion horizonte most recent video success luis fonsi together singer american nd demi lovato echame culpa supero million reproductions youtube informs casa discogra ca uni versal music two me"
+        },
+        {
+            "cluster": "4",
+            "headline": "anus with energy",
+            "id": 51,
+            "news": "the new leon film studio presents an international exhibition "
+        },
+        {
+            "cluster": "4",
+            "headline": "offer diversity in film proposals",
+            "id": 52,
+            "news": "redaccion horizon redaccion horizon interpretes genre regional mexican more important last times sera manager open musical season arena monterrey julion varez will share best hits"
+        }
+    ],
+    "5": [
+        {
+            "cluster": "5",
+            "headline": "dream for children",
+            "id": 53,
+            "news": "redaccion horizon landesa tales fairies legends stories creatures folklore celtic towns create later own stories shared form oral children grandchildren later plasmo paintings cultur"
+        }
+    ],
+    "6": [
+        {
+            "cluster": "6",
+            "headline": "to dorlan medina",
+            "id": 54,
+            "news": "luis madrigal horizon nte novel lived ulti mos days camp possible striped outpost dorlan pabon compatriot stefan medina said team contemplates forward colombian central closure cafetaler"
+        },
+        {
+            "cluster": "6",
+            "headline": "of the English tottenham",
+            "id": 55,
+            "news": "redaccion horizonte ondres nfl redui ra presence lon dres four three parties announcement league yesterday morning first time calendar par tidos played weeks thread league continues design structure"
+        }
+    ],
+    "7": [
+        {
+            "cluster": "7",
+            "headline": "the uni does not scare him",
+            "id": 56,
+            "news": "in classic royal tournament opening jona responded shouts cion felina uni response observed logo striped t-shirt presumed conquest more titles tigers that time luis madrigal horizon l archer s"
+        },
+        {
+            "cluster": "7",
+            "headline": "It's your first title",
+            "id": 57,
+            "news": "the horizon i someone pride more luis madrigal I enjoy being first I win imagine first inexplicable luis rodriguez defense tigers celebration title opening nobody but re gio luis alfonso rodriguez"
+        },
+        {
+            "cluster": "7",
+            "headline": "they come without fear to the champion",
+            "id": 58,
+            "news": "the horizon six years dominion great trajectory here also good players great staff directive support cion supports arrives box nicolaita saints tigers strengthened green square it fear e"
+        },
+        {
+            "cluster": "7",
+            "headline": "to lift the face",
+            "id": 59,
+            "news": "redaccion horizon iudad mexico pu mas unam reci bira afternoon together xolos tijuana match match day tournament closing league mx female set pedregal arrives encounter motivation improve"
+        }
+    ],
+    "8": [
+        {
+            "cluster": "8",
+            "headline": "continue with",
+            "id": 60,
+            "news": "scene obtained yesterday awards best director best movie critics choice awards guillermo toro force oscars famous movie form water p t f "
+        },
+        {
+            "cluster": "8",
+            "headline": "adore him",
+            "id": 61,
+            "news": "on history win first prize academy fernando neri horizon love impossible full war cold form water director guillermo bull hoisted last night winners critics choice awards filmmaker left galar"
+        },
+        {
+            "cluster": "8",
+            "headline": "your most intimate project to date",
+            "id": 62,
+            "news": "guillermo toro started developing sally hawkins tape unica option starring mary elizabeth winstead girlfriend ewan mcgregor actress series fargo lucio look delicate portar dress lace transparenci"
+        },
+        {
+            "cluster": "8",
+            "headline": "to the carpet",
+            "id": 63,
+            "news": "redaccion horizon then color black predominance delivery balloons gold code dress agreed to protest sexual harassment catwalk previous delivery critics choice awards full color style outfits looked f"
+        }
+    ]
+}
